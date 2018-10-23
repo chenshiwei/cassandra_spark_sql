@@ -1,0 +1,18 @@
+*.class
+.cache*
+*.settings
+*.project
+*.classpath
+target
+# Package Files #
+*.jar
+*.war
+*.ear
+/target
+*.iml
+*.idea
+/logs
+/disconf
+spark-warehouse
+developer.properties
+*.lock
